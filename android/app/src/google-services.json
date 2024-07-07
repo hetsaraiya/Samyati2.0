@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "428886898955",
+    "project_id": "samyati-379318",
+    "storage_bucket": "samyati-379318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428886898955:android:7e24dad907f95ea3630a0e",
+        "android_client_info": {
+          "package_name": "com.pruthatek.smayati"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428886898955-r14k5nnpgvque647am0ooivfdikd16q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pruthatek.smayati",
+            "certificate_hash": "fd1775c9bbd96e14c0e3f754ca577dacc533e3bc"
+          }
+        },
+        {
+          "client_id": "428886898955-co74b6ojs8pno9enj9pl3sbtv78munsv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPEjYeAAfWCgrcJMZvydZQoodZFWkrSA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428886898955-co74b6ojs8pno9enj9pl3sbtv78munsv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
